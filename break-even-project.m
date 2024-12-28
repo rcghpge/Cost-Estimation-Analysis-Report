@@ -1,7 +1,5 @@
 %{
-    
 ENGR1250-00     Emanuel,Giles,Robert   4/2/19
-
 Breakeven Analysis Project
 %}
 
