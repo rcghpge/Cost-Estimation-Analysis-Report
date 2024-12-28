@@ -1,6 +1,8 @@
 %{
-ENGR1250-00     Emanuel,Giles,Robert   4/2/19
+ENGR1250-00     
+Emanuel,Giles,Robert
 Breakeven Analysis Project
+4/2/19
 %}
 
 clear
